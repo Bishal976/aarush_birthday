@@ -1,0 +1,79 @@
+.wish{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.image1{
+    border:2px solid red;
+    /* height: 50px; */
+    width: 200px;
+    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/12/03/template-birthday-background-vector-621203.jpg");
+}
+.container {
+    border:2px solid  silver;
+    width:700px;
+    height:900px;
+    border-style: groove;
+    background-color:seashell;
+    box-shadow: 10px 10px 10px #555;
+    background-image: url("aarush.jpeg");
+}
+.image_tag{
+    background-image: url("aarush.jpeg");
+}
+.image2{
+    border:2px solid red;
+    /* height: 50px; */
+    width: 200px;
+    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/12/03/template-birthday-background-vector-621203.jpg");
+}
+
+.heading {
+    font-family:Rancho;
+    text-shadow:4px 4px 4px #555;
+    font-size: 50px;
+    border:2px solid silver;
+    border-radius: 15px;
+    /* margin: 10px; */
+    margin-left: 40px;
+    padding: 5px;
+    background-image: url("https://th.bing.com/th/id/OIP.6MDaIyvnKUX7jhh-B4_bHQHaE1?pid=Api&rs=1");
+}
+.image{
+    width:300px;
+    height:200px;
+    border:2px solid silver;
+    /* border-radius:15px; */
+    padding:10px;
+    margin-left: 30px;
+    background-color: wheat;
+    box-shadow:4px 4px 4px thistle;
+}
+.fact {
+    font-style: italic;
+    margin:15px;
+}
+.content{
+    border:2px solid silver;
+    margin:10px;
+}
+span {
+    font-weight: 700;
+    font-family:Yatra One;
+}
+li {
+    font-family:Nunito;
+    font-size: small;
+}
+.note{
+    margin:15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.list {
+    border:2px solid silver;
+    border-radius: 10px;
+    padding-left:200px;
+    color:white;
+    background-color: black;
+}
